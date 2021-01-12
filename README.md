@@ -1,9 +1,11 @@
 # TRENDBURADA
 
 
-Project Dependencies
-
 Angular CLI > 9.0
 
+## To run the app
+- Open your terminal
+- Declare project path.
+- Clone the project.
+- Run 'npm install' command.
 
-Çalıştırmak için projeyi clonlayıp > npm install yaparsanız çalışacaktır
